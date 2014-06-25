@@ -1,5 +1,6 @@
 title: Parklets Map
 created_by: Code for America
+baseurl: http://arubyist.github.io/jekyllmap/
 
 relative_permalinks: true
 permalink: pretty
