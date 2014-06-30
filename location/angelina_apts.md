@@ -9,7 +9,7 @@ image: "Angelina_m200.jpg"
 latitude: 34.064851
 longitude: -118.256417
 
-page.url: http://ltsc.org/index.php?option=com_content&view=article&id=291
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=291
 
 tags:	
 - Seating
