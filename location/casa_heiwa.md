@@ -4,10 +4,12 @@ title: Casa Heiwa
 install_date: Early 2013
 
 layout: location
-image: "brainwash.jpg"
+image: "Casa-Heiwa-2_m200.jpg"
 
 latitude: 34.048616
 longitude: -118.243556
+
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=286
 
 tags:	
 - Seating
