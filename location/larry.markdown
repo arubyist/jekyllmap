@@ -9,6 +9,8 @@ image: "brainwash.jpg"
 latitude: 34.063298
 longitude: -118.260126
 
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=303
+
 tags:	
 - Seating
 - Plants

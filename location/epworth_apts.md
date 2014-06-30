@@ -4,10 +4,12 @@ title: Epworth Apartments
 install_date: Early 2013
 
 layout: location
-image: "brainwash.jpg"
+image: "Epworth_MG_9967_m200.jpg"
 
 latitude: 33.980114
 longitude: -118.118634
+
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=294
 
 tags:	
 - Seating
