@@ -4,7 +4,7 @@ title: Larry Itliong Village
 install_date: Early 2013
 
 layout: location
-image: "brainwash.jpg"
+image: "PWC_LIV-01_m200.jpg"
 
 latitude: 34.063298
 longitude: -118.260126
