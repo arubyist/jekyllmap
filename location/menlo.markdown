@@ -9,6 +9,8 @@ image: "Menlo_MG_0012_m200.jpg"
 latitude: 34.048129
 longitude: -118.290219
 
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=287
+
 tags:	
 - Seating
 - Plants

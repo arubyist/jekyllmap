@@ -9,6 +9,8 @@ image: "Palm-Village-IMG_2707_m200.jpg"
 latitude: 34.234112
 longitude: -118.405731
 
+linky: http://ltsc.org/index.php/component/content/article/278
+
 tags:	
 - Seating
 - Plants
