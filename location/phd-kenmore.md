@@ -1,5 +1,5 @@
 ---
-address: 1401 S. Arlington Ave., 90019  
+address: 1400 S. Kenmore Ave. Los Angeles, CA 90006 
 title: PHD Apartments
 install_date: Early 2013
 
