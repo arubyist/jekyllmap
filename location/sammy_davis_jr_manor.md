@@ -4,7 +4,7 @@ title: Sammy Davis Jr. Manor
 install_date: Early 2013
 
 layout: location
-image: "brainwash.jpg"
+image: "Sammy-Davis-Jr_m200.jpg"
 
 latitude: 34.066977
 longitude: -118.283735
