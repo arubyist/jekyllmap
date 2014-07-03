@@ -4,7 +4,8 @@
 $('.list-group-item').click(function() {
 
   // get index of element, remove beggining '#5' => '5'
-  var point = parseInt($(this).attr('data-target').substr(1,1));
+  //var point = parseInt($(this).attr('data-target').substr(1,1));
+  var point = parseInt($(this).attr('data-target').substring(1));
   var marker = jekyllMap.retreiveMarkerMap(point);
 
   // fix for double clicking list, prevents toggle clusterfuck
