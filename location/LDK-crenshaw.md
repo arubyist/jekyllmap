@@ -9,7 +9,7 @@ image: "LDK-Crenshaw_m200.jpg"
 latitude: 34.055972
 longitude: -118.321850
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=306
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=322
 
 tags:	
 - Seating
