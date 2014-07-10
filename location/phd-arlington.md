@@ -4,7 +4,7 @@ title: PHD Apartments - Arlington
 install_date: Early 2013
 
 layout: location
-image: "PHD-Arlington_m200.jpg"
+image: "PHD-Arlington_MG_0044_800.jpg"
 
 latitude: 34.046151
 longitude: -118.318068

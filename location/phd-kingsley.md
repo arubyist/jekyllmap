@@ -4,7 +4,7 @@ title: PHD Apartments - Kingsley
 install_date: Early 2013
 
 layout: location
-image: "PHD-Arlington_m200.jpg"
+image: "PHD-Kingsley_MG_0035_800.jpg"
 
 latitude: 34.052014
 longitude: -118.302804

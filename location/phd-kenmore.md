@@ -4,7 +4,7 @@ title: PHD Apartments - Kenmore
 install_date: Early 2013
 
 layout: location
-image: "PHD-Kenmore_m200.jpg"
+image: "PHD-Kenmore_800.jpg"
 
 latitude: 34.046232
 longitude: -118.296681

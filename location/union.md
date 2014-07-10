@@ -4,7 +4,7 @@ title: Union Center for the Arts
 install_date: Early 2013
 
 layout: location
-image: "union_m200.jpg"
+image: "Union-Church-Now-copy_800.jpg"
 
 latitude: 34.051449
 longitude: -118.240281
