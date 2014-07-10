@@ -9,7 +9,7 @@ image: "far_m200.jpg"
 latitude: 34.049692
 longitude: -118.239439
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=297
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=331
 
 tags:	
 - Seating
