@@ -9,7 +9,7 @@ image: "Epworth_MG_9967_m200.jpg"
 latitude: 33.980114
 longitude: -118.118634
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=294
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=334
 
 tags:	
 - Seating
