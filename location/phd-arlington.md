@@ -9,7 +9,7 @@ image: "PHD-Arlington_m200.jpg"
 latitude: 34.046151
 longitude: -118.318068
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=288
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=337
 
 tags:	
 - Seating

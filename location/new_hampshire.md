@@ -9,7 +9,7 @@ image: "New-Hampshire-rendering_m200.jpg"
 latitude: 34.051177
 longitude: -118.292967
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=304
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=324
 
 tags:	
 - Seating

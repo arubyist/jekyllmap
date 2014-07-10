@@ -9,7 +9,7 @@ image: "Pacific-Bridge-Adult-Res-Facility-copy_m200.jpg"
 latitude: 34.056415
 longitude: -118.127178
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=299
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=329
 
 tags:	
 - Seating

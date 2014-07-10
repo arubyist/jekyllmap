@@ -9,7 +9,7 @@ image: "silverview_m200.jpg"
 latitude: 34.103766
 longitude: -118.273617
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=292
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=349
 
 tags:	
 - Seating

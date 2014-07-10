@@ -9,7 +9,7 @@ image: "union_m200.jpg"
 latitude: 34.051449
 longitude: -118.240281
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=300
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=328
 
 tags:	
 - Seating
