@@ -9,7 +9,7 @@ image: "LDK-Kingsley_m200.jpg"
 latitude: 34.064167
 longitude: -118.302472
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=306
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=322
 
 tags:	
 - Seating
