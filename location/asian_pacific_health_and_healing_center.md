@@ -9,7 +9,7 @@ image: "APH&HC-2_m200.jpg"
 latitude: 34.098915
 longitude: -118.287021
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=301
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=327
 
 tags:	
 - Seating
