@@ -1,6 +1,6 @@
 ---
 address: 347-353 E. First St.
-title: Far East Building
+title: 1. Far East Building
 install_date: Early 2013
 
 layout: location
