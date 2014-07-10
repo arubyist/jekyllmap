@@ -4,7 +4,7 @@ title: LDK Senior Apartments
 install_date: Early 2013
 
 layout: location
-image: "LDK-Kingsley_m200.jpg"
+image: "LDK_Kingsley.jpg"
 
 latitude: 34.064167
 longitude: -118.302472
