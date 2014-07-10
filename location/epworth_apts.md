@@ -4,7 +4,7 @@ title: Epworth Apartments
 install_date: Early 2013
 
 layout: location
-image: "Epworth_MG_9967_m200.jpg"
+image: "Epworth_MG_9976_800.jpg"
 
 latitude: 33.980114
 longitude: -118.118634

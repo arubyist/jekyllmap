@@ -4,7 +4,7 @@ title: Figueroa Apartments
 install_date: Early 2013
 
 layout: location
-image: "Figueroa_200.jpg"
+image: "Figueroa_800.jpg"
 
 latitude: 33.995498
 longitude: -118.282663

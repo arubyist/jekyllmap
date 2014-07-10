@@ -4,7 +4,7 @@ title: HFL Sequoia Apartments
 install_date: Early 2013
 
 layout: location
-image: "HFL-Sequoia-IMG_0152_m200.jpg"
+image: "HFL-Sequoia-2_800.jpg"
 
 latitude: 34.188350
 longitude: -118.446719

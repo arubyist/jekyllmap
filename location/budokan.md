@@ -4,7 +4,7 @@ title: Bukokan of Los Angeles
 install_date: Early 2013
 
 layout: location
-image: "Budokan_m200.jpg"
+image: "Budokan-Camera01_BRIGHT_800.jpg"
 
 latitude: 34.049132
 longitude: -118.244394

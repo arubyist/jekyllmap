@@ -4,7 +4,7 @@ title: LDK Senior Apartments
 install_date: Early 2013
 
 layout: location
-image: "LDK-Crenshaw_m200.jpg"
+image: "LDK-Crenshaw_800.jpg"
 
 latitude: 34.055972
 longitude: -118.321850

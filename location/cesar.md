@@ -4,7 +4,7 @@ title: Cesar Chavez Gardens
 install_date: Early 2013
 
 layout: location
-image: "Cesar-Chavez_MG_0066_m200.jpg"
+image: "Cesar-Chavez_MG_0066_800.jpg"
 
 latitude: 34.056479
 longitude: -118.231390

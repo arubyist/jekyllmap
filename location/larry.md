@@ -4,7 +4,7 @@ title: Larry Itliong Village
 install_date: Early 2013
 
 layout: location
-image: "Casa-Heiwa-2_m200.jpg"
+image: "PWC_LIV-02_800.jpg"
 
 latitude: 34.063298
 longitude: -118.260126
