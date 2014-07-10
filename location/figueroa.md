@@ -9,7 +9,7 @@ image: "Figueroa_200.jpg"
 latitude: 33.995498
 longitude: -118.282663
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=302
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=326
 
 tags:	
 - Seating
