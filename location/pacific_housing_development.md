@@ -4,7 +4,7 @@ title: Pacific Housing Development
 install_date: Early 2013
 
 layout: location
-image: "Pacific-Housing-Development_MG_9946_m200.jpg"
+image: "Pacific-Housing-Development_MG_9943_800.jpg"
 
 latitude: 34.059585
 longitude: -118.118634

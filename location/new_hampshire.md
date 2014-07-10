@@ -4,7 +4,7 @@ title: New Hampshire Family Housing
 install_date: Early 2013
 
 layout: location
-image: "New-Hampshire-rendering_m200.jpg"
+image: "New-Hampshire-rendering_800.jpg"
 
 latitude: 34.051177
 longitude: -118.292967
