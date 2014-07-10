@@ -4,7 +4,7 @@ title: Asian Pacific Health and Healing Center
 install_date: Early 2013
 
 layout: location
-image: "APH&HC-2_m200.jpg"
+image: "APH_HC-2_m.jpg"
 
 latitude: 34.098915
 longitude: -118.287021
