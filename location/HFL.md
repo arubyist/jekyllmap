@@ -9,7 +9,7 @@ image: "HFL-Sequoia-IMG_0152_m200.jpg"
 latitude: 34.188350
 longitude: -118.446719
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=305
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=323
 
 tags:	
 - Seating
