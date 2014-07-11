@@ -1,7 +1,7 @@
 ---
 address: 1336 Angelina St.  
 title: Angelina Apartments
-install_date: Early 2013
+install_date: 1999
 
 layout: location
 image: "Angelina_800.jpg"

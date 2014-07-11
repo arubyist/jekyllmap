@@ -1,7 +1,7 @@
 ---
 address: 237-249 S. Los Angeles Los Angeles, CA 90013
 title: Bukokan of Los Angeles
-install_date: Early 2013
+install_date: Projected 2016 3rd Quarter
 
 layout: location
 image: "Budokan-Camera01_BRIGHT_800.jpg"
