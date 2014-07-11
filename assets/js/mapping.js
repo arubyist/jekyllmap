@@ -49,7 +49,7 @@ var jekyllMap = (function (jekyllMap) {
   // PUBLIC METHODS
   function init() {
 
-    var map = L.map('map', {scrollWheelZoom: false});
+    var map = L.map('map', {scrollWheelZoom: true});
     map.attributionControl.setPrefix("");
 
     // mapping tiles
