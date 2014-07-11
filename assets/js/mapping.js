@@ -54,7 +54,9 @@ var jekyllMap = (function (jekyllMap) {
 
     // mapping tiles
     //L.tileLayer('http://{s}.tiles.mapbox.com/v3/examples.map-vyofok3q/{z}/{x}/{y}.png', {maxZoom: 18}).addTo(map);
-    L.tileLayer('http://tile.stamen.com/toner/{z}/{x}/{y}.png', {attribution: 'Stamen Toner'}).addTo(map); 
+    //sL.tileLayer('http://tile.stamen.com/toner/{z}/{x}/{y}.png', {attribution: 'Stamen Toner'}).addTo(map); 
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
 
     // Leaflet marker points creation, each marker on a new layer
     // Takes in generated .geojson file and adds to map
