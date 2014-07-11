@@ -1,7 +1,7 @@
 ---
 address: 1020 S. Kingsley Dr. Los Angeles, CA 90006  
 title: PHD Apartments - Kingsley
-install_date: Early 2013
+install_date: 2011
 
 layout: location
 image: "PHD-Kingsley_MG_0035_800.jpg"

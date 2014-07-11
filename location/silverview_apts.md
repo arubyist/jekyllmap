@@ -1,7 +1,7 @@
 ---
 address: 2449 Hyperion Ave.  
 title: Silverview Apartments
-install_date: Early 2013
+install_date: 1997
 
 layout: location
 image: "silverview3_800.jpg"

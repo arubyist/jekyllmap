@@ -1,7 +1,7 @@
 ---
 address: 14402 Hamilin St. Van Nuys, CA 91401 
 title: HFL Sequoia Apartments
-install_date: Early 2013
+install_date: Projected 2014 3rd Quarter 
 
 layout: location
 image: "HFL-Sequoia-2_800.jpg"

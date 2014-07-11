@@ -1,7 +1,7 @@
 ---
 address: 1230 S. Menlo Ave.
 title: Menlo Family Housing
-install_date: Early 2013
+install_date: 2013
 
 layout: location
 image: "Menlo_MG_0027_800.jpg"

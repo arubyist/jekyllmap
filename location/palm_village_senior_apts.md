@@ -1,7 +1,7 @@
 ---
 address: 9050 Laurel Canyon Blvd. 
 title: Palm Village Senior Apartments 
-install_date: Early 2013
+install_date: 2008
 
 layout: location
 image: "Palm-Village-IMG_2707_800.jpg"

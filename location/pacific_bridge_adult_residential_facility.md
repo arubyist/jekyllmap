@@ -1,7 +1,7 @@
 ---
 address: 500 S. McPherrin Ave.
 title: Pacific Bridge Adult Residential Facility 
-install_date: Early 2013
+install_date: 1998
 
 layout: location
 image: "Pacific-Bridge_MG_9964_800.jpg"

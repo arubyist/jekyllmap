@@ -1,7 +1,7 @@
 ---
 address: 231 E. Third St.  
 title: Casa Heiwa
-install_date: Early 2013
+install_date: 1996
 
 layout: location
 image: "Casa-Heiwa-2_800.jpg"

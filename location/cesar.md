@@ -1,7 +1,7 @@
 ---
 address: 555 Cesar Chavez Blvd. 
 title: Cesar Chavez Gardens
-install_date: Early 2013
+install_date: 2003
 
 layout: location
 image: "Cesar-Chavez_MG_0066_800.jpg"

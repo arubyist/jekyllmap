@@ -1,7 +1,7 @@
 ---
 address: 120 Judge John Aiso N. San Pedro St. Los Angeles, CA 90012
 title: Union Center for the Arts
-install_date: Early 2013
+install_date: 1998
 
 layout: location
 image: "Union-Church-Now-copy_800.jpg"

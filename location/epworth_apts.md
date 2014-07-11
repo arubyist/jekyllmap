@@ -1,7 +1,7 @@
 ---
 address: 6525 S. Normandie Ave.  
 title: Epworth Apartments
-install_date: Early 2013
+install_date: 2012
 
 layout: location
 image: "Epworth_MG_9976_800.jpg"

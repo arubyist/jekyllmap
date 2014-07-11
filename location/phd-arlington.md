@@ -1,7 +1,7 @@
 ---
 address: 1401 S. Arlington Ave., 90019  
 title: PHD Apartments - Arlington
-install_date: Early 2013
+install_date: 2011
 
 layout: location
 image: "PHD-Arlington_MG_0044_800.jpg"
