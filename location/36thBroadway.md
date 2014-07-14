@@ -1,6 +1,6 @@
 ---
 address: 4775 S. Broadway Los Angeles, CA 90011  
-title: 36th Street & Broadway Apartments
+title: 36th Street 
 install_date: 2011/2012
 
 layout: location
