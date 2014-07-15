@@ -1,5 +1,5 @@
 ---
-address: 9050 Laurel Canyon Blvd. 
+address: 9050 Laurel Canyon Blvd. Sun Valley, CA 91352
 title: Palm Village Senior Apartments 
 install_date: 2008
 

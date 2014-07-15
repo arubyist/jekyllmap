@@ -1,5 +1,5 @@
 ---
-address: 6525 S. Normandie Ave.  
+address: 6525 S. Normandie Ave. Los Angeles, CA 90044
 title: Epworth Apartments
 install_date: 2012
 

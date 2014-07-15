@@ -1,5 +1,5 @@
 ---
-address: 231 E. Third St.  
+address: 231 E. Third St. Los Angeles, CA 90013
 title: Casa Heiwa
 install_date: 1996
 

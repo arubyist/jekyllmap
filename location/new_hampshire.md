@@ -1,5 +1,5 @@
 ---
-address: 1053 S. New Hampshire  Los Angeles, CA 90006
+address: 1053 S. New Hampshire Los Angeles, CA 90006
 title: New Hampshire Family Housing
 install_date: Projected 2014 2nd Quarter
 

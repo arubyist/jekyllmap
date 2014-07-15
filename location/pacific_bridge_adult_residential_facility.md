@@ -1,5 +1,5 @@
 ---
-address: 500 S. McPherrin Ave.
+address: 500 S. McPherrin Ave. Monterey Park, CA 91754
 title: Pacific Bridge Adult Residential Facility 
 install_date: 1998
 

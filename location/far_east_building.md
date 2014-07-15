@@ -1,5 +1,5 @@
 ---
-address: 347-353 E. First St.
+address: 347-353 E. First St. Los Angeles, CA 90012
 title: Far East Building
 install_date: 2003
 

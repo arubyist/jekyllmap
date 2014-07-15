@@ -1,5 +1,5 @@
 ---
-address: 1336 Angelina St.  
+address: 1336 Angelina St. Los Angeles, CA 90026
 title: Angelina Apartments
 install_date: 1999
 

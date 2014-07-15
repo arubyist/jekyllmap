@@ -1,5 +1,5 @@
 ---
-address: 555 Cesar Chavez Blvd. 
+address: 555 Cesar Chavez Blvd. Los Angeles, CA 90012
 title: Cesar Chavez Gardens
 install_date: 2003
 
