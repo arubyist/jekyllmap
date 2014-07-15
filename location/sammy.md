@@ -1,5 +1,5 @@
 ---
-address: 340 S. Reno St. Los Angeles, CA 90004  
+address: 340 S. Reno St., Los Angeles, CA 90004  
 title: Sammy Davis Jr. Manor
 install_date: 2000
 

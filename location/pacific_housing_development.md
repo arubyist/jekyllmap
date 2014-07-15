@@ -1,5 +1,5 @@
 ---
-address: 322 E. Newmark Ave. Monterey Park, CA 91755 
+address: 322 E. Newmark Ave., Monterey Park, CA 91755 
 title: Pacific Housing Development
 install_date: 2005
 

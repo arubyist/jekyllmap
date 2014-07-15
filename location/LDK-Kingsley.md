@@ -1,5 +1,5 @@
 ---
-address: 540-542 S. Kingsley Dr. Los Angeles, CA 90020
+address: 540-542 S. Kingsley Dr., Los Angeles, CA 90020
 title: LDK Senior Apartments
 install_date: Projected 2015 4th Quarter
 

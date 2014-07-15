@@ -1,5 +1,5 @@
 ---
-address: 1530 N. Hillhurst Ave. Los Angeles, CA 90027
+address: 1530 N. Hillhurst Ave., Los Angeles, CA 90027
 title: Asian Pacific Health and Healing Center
 install_date: 1997
 layout: location

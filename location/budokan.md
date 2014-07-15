@@ -1,6 +1,6 @@
 ---
-address: 237-249 S. Los Angeles Los Angeles, CA 90013
-title: Bukokan of Los Angeles
+address: 237-249 S. Los Angeles St., Los Angeles, CA 90013
+title: Budokan of Los Angeles
 install_date: Projected 2016 3rd Quarter
 
 layout: location

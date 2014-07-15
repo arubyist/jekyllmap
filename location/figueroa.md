@@ -1,5 +1,5 @@
 ---
-address: 5216 S. Figueroa St. Los Angeles, CA 90037
+address: 5216 S. Figueroa St., Los Angeles, CA 90037
 title: Figueroa Apartments
 install_date: Projected 2014
 

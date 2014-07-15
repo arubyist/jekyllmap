@@ -1,5 +1,5 @@
 ---
-address: 1230 S. Menlo Ave. Los Angeles, CA 90026
+address: 1230 S. Menlo Ave., Los Angeles, CA 90026
 title: Menlo Family Housing
 install_date: 2013
 

@@ -1,5 +1,5 @@
 ---
-address: 112 Judge John Aiso N. San Pedro St. Los Angeles, CA 90012 
+address: 112 Judge John Aiso St., Los Angeles, CA 90012 
 title: San Pedro Firm Building
 install_date: 1991
 

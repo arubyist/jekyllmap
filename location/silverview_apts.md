@@ -1,5 +1,5 @@
 ---
-address: 2449 Hyperion Ave. Los Angeles, CA 90027 
+address: 2449 Hyperion Ave., Los Angeles, CA 90027 
 title: Silverview Apartments
 install_date: 1997
 

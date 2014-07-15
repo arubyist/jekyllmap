@@ -1,5 +1,5 @@
 ---
-address: 153 N. Glendale Blvd. Los Angeles, CA 90026  
+address: 153 N. Glendale Blvd., Los Angeles, CA 90026  
 title: Larry Itliong Village 
 install_date: 2013
 
