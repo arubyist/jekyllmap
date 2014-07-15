@@ -65,7 +65,7 @@ var jekyllMap = (function (jekyllMap) {
   //subdomains: '1234'
 //}).addTo(map);
 
-     L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {id: 'examples.map-i86knfo3',   attribution: mbAttr}).addTo(map);
+     L.tileLayer('http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {id: 'examples.map-i86knfo3',   attribution: mbAttr}).addTo(map);
 
     // Leaflet marker points creation, each marker on a new layer
     // Takes in generated .geojson file and adds to map
