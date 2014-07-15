@@ -4,7 +4,7 @@ title: 36th Street
 install_date: 2011/2012
 
 layout: location
-image: "Angelina_800.jpg"
+image: "36th-St-&-Broadway---36th-St_MG_9993_800.jpg"
 
 latitude: 33.999398
 longitude: -118.278719
