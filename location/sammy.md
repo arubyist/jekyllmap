@@ -4,7 +4,7 @@ title: Sammy Davis Jr. Manor
 install_date: 2000
 
 layout: location
-image: "Angelina_800.jpg"
+image: "Sammy-Davis-Jr_685.jpg"
 
 latitude: 34.066977
 longitude: -118.283735
