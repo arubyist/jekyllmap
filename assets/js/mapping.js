@@ -93,7 +93,7 @@ L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
 
     // account for sidebar and adjust map 450px to right 
     // and pad top+bottom 30px => this adjusts the zoom automagically, super convenient
-    map.fitBounds(pointy.getBounds(), {paddingTopLeft: [450, 30], paddingBottomRight: [0, 30]});
+    map.fitBounds(pointy.getBounds(), {paddingBottomLeft: [450, 30], paddingBottomRight: [0, 30]});
 
   }
 
