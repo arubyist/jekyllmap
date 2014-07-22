@@ -5,7 +5,7 @@ Version: 1.0
 */
 
 /* Marker setup */
-.awesome-marker {
+/* .awesome-marker {
   background: url('images/markers-soft.png') no-repeat 0 0;
   width: 35px;
   height: 46px;
@@ -14,13 +14,13 @@ Version: 1.0
   top:0;
   display: block;
   text-align: center;
-}
+} 
 
 .awesome-marker-shadow {
   background: url('images/markers-shadow.png') no-repeat 0 0;
   width: 36px;
   height: 16px;
-}
+} */ 
 
 /* Retina displays */
 @media (min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3/2),

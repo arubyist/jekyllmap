@@ -1,6 +1,6 @@
 ---
 address: 1401 S. Arlington Ave., Los Angeles, CA 90019 
-title: PHD Apartments - 1401 S. Arlington Ave.
+title: PHD Apartments 1401 S. Arlington Ave.
 install_date: 2011
 
 layout: location

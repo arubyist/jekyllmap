@@ -1,6 +1,6 @@
 ---
 address: 1400 S. Kenmore Ave., Los Angeles, CA 90006 
-title: PHD Apartments - 1400 S. Kenmore Ave.
+title: PHD Apartments 1400 S. Kenmore Ave.
 install_date: 2011
 
 layout: location
