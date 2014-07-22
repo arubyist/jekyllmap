@@ -42,8 +42,8 @@ var jekyllMap = (function (jekyllMap) {
   var markerMap = {};
 
   // Extending Leaflet default markers with AwesomeMarkers library
-  var markerIcon = L.AwesomeMarkers.icon({icon: 'coffee', color: 'green'});
-  var markerIconActive = L.AwesomeMarkers.icon({icon: 'coffee', color: 'blue'});
+  var markerIcon = L.Icon({icon: 'pin6.png'});
+  var markerIconActive = L.Icon({icon: 'pin9.png'});
 
 
   // PUBLIC METHODS
@@ -67,15 +67,20 @@ var jekyllMap = (function (jekyllMap) {
   //subdomains: '1234'
 //}).addTo(map);
 
-     //L.tileLayer('http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {id: 'examples.map-i86knfo3',   attribution: mbAttr}).addTo(map);
-     //L.tileLayer('http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {id: 'examples.map-i86knfo3', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-     //   '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-       // 'Imagery © <a href="http://mapbox.com">Mapbox</a>'}).addTo(map);
 
-L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
-  minZoom: 0,
-  maxZoom: 18,
-  attribution: 'Tiles courtesy of <a href="http://hot.openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'}).addTo(map);
+//L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
+  //minZoom: 0,
+  //maxZoom: 18,
+  //attribution: 'Tiles courtesy of <a href="http://hot.openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'}).addTo(map);
+
+
+//L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png', {attribution: 'Tiles courtesy of <a href="http://hot.openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'}).addTo(map);
+
+  
+
+L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {id: 'examples.map-i86knfo3',   attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery © <a href="http://mapbox.com">Mapbox</a>'}).addTo(map);
 
     // Leaflet marker points creation, each marker on a new layer
     // Takes in generated .geojson file and adds to map

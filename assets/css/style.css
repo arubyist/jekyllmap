@@ -169,12 +169,12 @@ div.side-list {
 	background: rgba(0, 0, 0, 0.2);
 }
 
-.heading-content {
+ .heading-content {
 	background: #ddd;
-	height: 5px;
+	/* height: 5px;
 	border-bottom: 1px solid #999;
-	border-top: 1px solid #fff;
-}
+	border-top: 1px solid #fff; */
+} 
 
 .point-counter {
 	background: #FAF7F5;
@@ -258,4 +258,12 @@ button.list-group-item.active, button.list-group-item.active:hover {
 	-moz-transition: all 0.1s ease-in-out;
 	-o-transition: all 0.1s ease-in-out;
 	transition: all 0.1s ease-in-out;
+}
+
+.testing {
+	margin-top:45px;
+}
+
+.ohno{
+	text-align: center;
 }
