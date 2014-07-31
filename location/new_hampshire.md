@@ -1,6 +1,6 @@
 ---
 address: 1053 S. New Hampshire St., Los Angeles, CA 90006
-title: New Hampshire Family Housing
+title: Casa Yondé
 install_date: Projected 2014 2nd Quarter
 
 layout: location
