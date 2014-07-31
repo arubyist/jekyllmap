@@ -33,7 +33,7 @@
       "triangle","village","warehouse","waste-basket","water","wetland","zoo"
     ],
     defaultColor: "#0a0",
-    defaultIcon: "circle-stroked",
+    defaultIcon: null,
     defaultSize: "m",
     apiUrl: "https://api.tiles.mapbox.com/v3/marker/",
     smallOptions: {
