@@ -9,7 +9,7 @@ image: "San-Pedro_MG_0071_800.jpg"
 latitude: 34.048686
 longitude: -118.242246
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=348
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=346
 
 tags:	
 - Seating

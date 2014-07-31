@@ -9,7 +9,7 @@ image: "36th-St-&-Broadway---36th-St_MG_9993_800.jpg"
 latitude: 33.999398
 longitude: -118.278719
 
-linky: http://ltsc.org/index.php?option=com_content&view=article&id=348
+linky: http://ltsc.org/index.php?option=com_content&view=article&id=333
 
 tags:	
 - Seating
