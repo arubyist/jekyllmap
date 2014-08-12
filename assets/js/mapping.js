@@ -52,7 +52,7 @@ var jekyllMap = (function (jekyllMap) {
     var map = L.map('map', {scrollWheelZoom: true, zoomControl:false });
     map.attributionControl.setPrefix("");
 
-    map.addControl( L.control.zoom({position: 'bottomleft'}) )
+    map.addControl( L.control.zoom({position: 'topright'}) )
 
     // mapping tiles
     //L.tileLayer('http://{s}.tiles.mapbox.com/v3/examples.map-vyofok3q/{z}/{x}/{y}.png', {maxZoom: 18}).addTo(map);
