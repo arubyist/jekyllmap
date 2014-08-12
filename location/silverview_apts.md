@@ -4,7 +4,7 @@ title: Silverview Apartments
 install_date: 1997
 
 layout: location
-image: "silverview3_800.jpg"
+image: "Silverview-Apartments_m.jpg"
 
 latitude: 34.103766
 longitude: -118.273617

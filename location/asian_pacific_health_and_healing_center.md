@@ -3,7 +3,7 @@ address: 1530 N. Hillhurst Ave., Los Angeles, CA 90027
 title: Asian Pacific Health and Healing Center
 install_date: 1997
 layout: location
-image: "APH_HC-2_m.jpg"
+image: "APHCV-1_m900.jpg"
 
 latitude: 34.098915
 longitude: -118.287021
