@@ -42,7 +42,7 @@ var jekyllMap = (function (jekyllMap) {
   var markerMap = {};
 
   // Extending Leaflet default markers with AwesomeMarkers library
-  var markerIcon = L.MakiMarkers.icon({icon: null, color: "#0040FF" , size: "m"});
+  var markerIcon = L.MakiMarkers.icon({icon: null, color: "#0068B3" , size: "m"});
   var markerIconActive = L.MakiMarkers.icon({icon: null, color: "#FF0000", size: "l"});
 
 

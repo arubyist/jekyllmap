@@ -268,10 +268,49 @@ button.list-group-item.active, button.list-group-item.active:hover {
 	text-align: center;
 }
 
-#home_link {
-	font-size:8px;
-	color:blue;
+.navbar {
+	background-color: #0068B3;
+	background-color: #fff;
+}
+
+.navbar-default .navbar-brand {
+	color:#0068B3;
+	padding: 10px;
+}
+
+.navbar > .container .navbar-brand {
+	margin-left:2px;
 	font-weight: bold;
+	margin-top: 5px;
+} 
+.navbar-default .navbar-brand:hover {
+	text-decoration: underline;
+}
+ 
+#linky {
+	color:#0068B3;
+}
+
+#ltsc_logo {
+	float:left;
+	margin-left: 60px;
+	margin-top:5px;
+}
+
+#not_sure {
+	float:right;
+}
+
+.count-highlight {
+	color:#0068B3;
+}
+
+button.list-group-item {
+	background-color: #fff;
+}
+
+.point-counter {
+	background-color:#fff;
 }
 
 @media only screen and (max-width: 400px) {
@@ -288,6 +327,14 @@ button.list-group-item.active, button.list-group-item.active:hover {
     }
 
     #arrow {
+    	display:none;
+    }
+
+    #not_sure {
+    	display:none;
+    }
+
+    #ltsc_logo {
     	display:none;
     }
 }
