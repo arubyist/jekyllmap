@@ -1,5 +1,5 @@
 /* 0.1 */
-
+@charset "UTF-8"; 
 .leaflet-popup-content-wrapper {
 	box-shadow: none;
 	-webkit-border-radius: 0px;
@@ -266,4 +266,28 @@ button.list-group-item.active, button.list-group-item.active:hover {
 
 .ohno{
 	text-align: center;
+}
+
+#home_link {
+	font-size:8px;
+	color:blue;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 400px) {
+    .oy  {
+        display:none;
+    }
+
+    .navbar-brand {
+    	font-size:18px;
+    }
+
+    .point-counter {
+    	text-align: left;
+    }
+
+    #arrow {
+    	display:none;
+    }
 }
