@@ -1,6 +1,6 @@
 ---
 address: Confidential Location
-title: Center for the Pacific Asian Family Transition Shelter
+title: Center for the Pacific Asian Family Transitional Shelter
 install_date: 2000
 
 layout: location
