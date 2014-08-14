@@ -196,14 +196,6 @@ div.side-list {
 }
 
 
-
-
-
-
-.main-content .col-md-3 {
-
-}
-
 #map-container > i {
 	position: absolute;
     display: block;
@@ -298,6 +290,10 @@ button.list-group-item.active, button.list-group-item.active:hover {
 	text-align: center;
 }
 
+.navbar-header {
+	text-align: center;
+}
+
 
 #not_sure {
 	float:right;
@@ -313,6 +309,10 @@ button.list-group-item {
 
 .point-counter {
 	background-color:#fff;
+}
+
+.container {
+	text-align: center;
 }
 
 @media only screen and (max-width: 400px) {
