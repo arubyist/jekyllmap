@@ -293,9 +293,11 @@ button.list-group-item.active, button.list-group-item.active:hover {
 
 #ltsc_logo {
 	float:left;
-	margin-left: 60px;
+	/* margin-left: 60px; */ 
 	margin-top:5px;
+	text-align: center;
 }
+
 
 #not_sure {
 	float:right;
