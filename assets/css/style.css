@@ -315,6 +315,15 @@ button.list-group-item {
 	text-align: center;
 }
 
+.leaflet-container .leaflet-control-attribution {
+	font-size:12px;
+}
+
+
+.leaflet-container .leaflet-control-attribution {
+	margin:0px 0px 50px 0px;
+}
+
 @media only screen and (max-width: 400px) {
     .oy  {
         display:none;
