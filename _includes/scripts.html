@@ -2,10 +2,10 @@
 {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
 
   <link rel="stylesheet" href="{{relative}}assets/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
-  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <link rel="stylesheet" href="{{relative}}assets/css/leaflet.css" />
+  <script src="{{relative}}assets/js/jquery-1.10.1.min.js"></script>
   <script src="{{relative}}assets/js/bootstrap.min.js"></script>
-  <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+  <script src="{{relative}}assets/js/leaflet.js"></script>
   <script src="{{relative}}assets/js/Leaflet.MakiMarkers.js"></script>
   <link rel="stylesheet" href="{{relative}}assets/css/leaflet.awesome-markers.css">
   <script src="{{relative}}assets/js/leaflet.awesome-markers.min.js"></script>
@@ -13,4 +13,4 @@
   <link rel="stylesheet" media="all" href="{{relative}}assets/css/style.css" />
   <link rel="shortcut icon" href="{{relative}}assets/img/favicon.ico" />
 
-  <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.4"></script>
+  <script type="text/javascript" src="{{relative}}assets/js/tile.stamen.js"></script>
