@@ -1,7 +1,7 @@
 ---
 address: 900-906 Crenshaw Blvd., Los Angeles, CA 90019
 title: LDK Senior Apartments
-install_date: Projected 2015 4th Quarter
+install_date: Projected 2016 2nd Quarter
 
 layout: location
 image: "LDK-Crenshaw_800.jpg"
