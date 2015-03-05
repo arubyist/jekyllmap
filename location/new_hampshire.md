@@ -1,7 +1,7 @@
 ---
 address: 1053 S. New Hampshire St., Los Angeles, CA 90006
 title: Casa Yonde
-install_date: Projected 2014 3rd Quarter
+install_date: Completed 2014 3rd Quarter
 
 layout: location
 image: "New-Hampshire-rendering_800.jpg"
